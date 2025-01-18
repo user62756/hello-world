@@ -7,3 +7,4 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 Added a new line to check push to GitHub
 New line to repeat the tutorial
+One more change to try the 'git pull' command
